@@ -9,7 +9,6 @@
     },
 
     "record": {
-        "CNAME": "kagari.is-a.dev",
         "MX": ["mx1.forwardemail.net", "mx2.forwardemail.net"],
         "TXT": ["forward-email=fuyukawabot@gmail.com"]
     },
